@@ -1,6 +1,8 @@
 # Steelseries-Key-Claimer
 Clicks on the claim key button on a giveaway page on games.steelseries.com. Refreshes the page if it doesn't
 
+##Also on Gresdyfork: https://greasyfork.org/de/scripts/436409-steelseries-claiming
+
 **You need an browser Add-on that supports it**
 
 **On Firefox:**
