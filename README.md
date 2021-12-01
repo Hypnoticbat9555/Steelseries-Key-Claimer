@@ -1,7 +1,7 @@
 # Steelseries-Key-Claimer
 Clicks on the claim key button on a giveaway page on games.steelseries.com. Refreshes the page if it doesn't
 
-#You need an browser Add-on that supports it
+**You need an browser Add-on that supports it**
 On Firefox: 
 Tampermonkey
 Violentmonkey
@@ -9,9 +9,9 @@ Violentmonkey
 On Chrome:
 Tampermonkey???
 Violentmonkey???
+(Haven't tried chrome)
 
-(Haven't tried this)
-
+# Description
 **This script was made for automatically clicking the "Claim Key" button**
 
 I made this because I was annoyed of loosing my time because I checked regularly if the giveaway had already started or not. 
