@@ -27,7 +27,7 @@ I made this because I was annoyed of loosing my time because I checked regularly
 
 **Requirements:**
 * Be already logged in
-* Not be in the waiting room ^ (the script doesn't know (yet?) if you are in the waiting room or not. It will continue refreshing the page, which may or may not have an impact on your placement in the waiting line
+* Not be in the waiting room (the script doesn't know (yet?) if you are in the waiting room or not. It will continue refreshing the page, which may or may not have an impact on your placement in the waiting line
 
 **How can you use this script:**
 
