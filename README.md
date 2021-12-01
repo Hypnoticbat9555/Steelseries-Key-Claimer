@@ -13,6 +13,8 @@ Clicks on the claim key button on a giveaway page on games.steelseries.com. Refr
 
 (Haven't tried chrome)
 
+---
+
 # Description
 **This script was made for automatically clicking the "Claim Key" button**
 
