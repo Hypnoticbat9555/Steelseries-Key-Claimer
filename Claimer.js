@@ -13,7 +13,7 @@
 // @namespace https://greasyfork.org/users/847300
 // ==/UserScript==
 
-// Sets the function to be executed every 20000 Milliseconds (20 seconds)
+// Sets the function to be executed every 15000 Milliseconds (15 seconds)
 setInterval(function(){
   
     if(document.getElementById("getKeyButton")) {
