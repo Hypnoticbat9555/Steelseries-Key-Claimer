@@ -3,7 +3,7 @@ Clicks on the claim key button on a giveaway page on games.steelseries.com. Refr
 
 **You need an browser Add-on that supports it**
 
-**On Firefox:* 
+**On Firefox:**
 * Tampermonkey
 * Violentmonkey
 
