@@ -27,12 +27,11 @@ I made this because I was annoyed of loosing my time because I checked regularly
 
 **Requirements:**
 * Be already logged in
-* Not be in the waiting room
+* Not be in the waiting room ^(the script doesn't know (yet?) if you are in the waiting room or not. It will continue refreshing the page, which may or may not have an impact on your placement in the waiting line
 
 **How can you use this script:**
 
 If you know Steelseries is doing a giveaway today, activate this acript. This way, you won't get into the waiting room. The script will then automatically refresh the page every 20 seconds and clikc the button when it appears. Just let your PC on.
 
-**Contact: If issues occur or you have ideas to improve it, please contact me on Reddit (u/Hypnoticbat9555)**
 
 
