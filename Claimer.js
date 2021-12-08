@@ -4,7 +4,7 @@
 // @name:fr     Steelseries Claiming
 // @match       *://games.steelseries.com/giveaway/*
 // @grant       none
-// @version     2.0
+// @version     2.0beta
 // @license     WTFPL
 // @author      u/hypnoticbat9555
 // @description If the user is on a giveaway page on Steelseries, it clicks the claim key button. It cannot be used to skip the waiting room. It will work if you are not in the waiting room and logged in. It basically clicks the button if/when it is available, nothing more.
